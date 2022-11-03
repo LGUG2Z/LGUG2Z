@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am the developer and maintainer of [`komorebi`](https://github.com/LGUG2Z/komorebi), the most starred, actively developed tiling window manager for Windows on GitHub. If `komorebi` is an integral part of your personal workflow, please consider [sponsoring me](https://github.com/sponsors/LGUG2Z).
+
+- 🔭 I curate feeds about [software development](https://notado.app/feeds/jado/software-development) and [other things](https://notado.app/feeds/jado) that you can subscribe to via RSS
+
+- ✍️ I write articles on [Substack](https://jeezy.substack.com)
+
+- 📫 You can contact me directly on [Twitter](https://twitter.com/LGUG2Z) or [Discord](https://discord.gg/mGkn66PHkx)
+
 <!--
 **LGUG2Z/LGUG2Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

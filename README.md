@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am the developer and maintainer of [`komorebi`](https://github.com/LGUG2Z/komorebi), the most starred, actively developed tiling window manager for Windows on GitHub. If `komorebi` is an integral part of your personal workflow, please consider [sponsoring me](https://github.com/sponsors/LGUG2Z).
+I am the developer and maintainer of [`komorebi`](https://github.com/LGUG2Z/komorebi), the most starred, actively developed tiling window manager for Windows on GitHub.
+
+If `komorebi` is an integral part of your personal workflow, please consider [sponsoring me](https://github.com/sponsors/LGUG2Z).
 
 - 🔭 I curate feeds about [software development](https://notado.app/feeds/jado/software-development) and [other things](https://notado.app/feeds/jado) that you can subscribe to via RSS
 

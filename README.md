@@ -4,7 +4,7 @@ I am the developer and maintainer of [`komorebi`](https://github.com/LGUG2Z/komo
 
 If `komorebi` is an integral part of your professional or personal workflow, please consider [sponsoring me](https://github.com/sponsors/LGUG2Z) - even if it's just $1/month.
 
-🔭 I curate feeds of high-quality commentary from across the internet on various topics that I'm interested in, which can be subscribed to via RSS
+🔭 I curate RSS feeds of high-quality commentary from across the internet on various topics that I'm interested in
 - [Software development](https://notado.app/feeds/jado/software-development) (What makes good and bad software development experiences)
 - [Social media](https://notado.app/feeds/jado/social-media) (The state of different social media services, user generated content and recommendation algorithms)
 - [Addiction](https://notado.app/feeds/jado/addiction) (Living with, overcoming and life after addiction)

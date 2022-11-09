@@ -15,6 +15,8 @@ If `komorebi` is an integral part of your professional or personal workflow, ple
 
 - 📫 You can contact me directly on [Twitter](https://twitter.com/LGUG2Z) or [Discord](https://discord.gg/mGkn66PHkx)
 
+My GitHub handle was originally a random string, but has come to be pronounced as "Jeezy" (from the final two alphabetic characters, G - Z)
+
 <!--
 **LGUG2Z/LGUG2Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

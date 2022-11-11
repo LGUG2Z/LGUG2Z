@@ -13,7 +13,7 @@ If `komorebi` is an integral part of your professional or personal workflow, ple
 
 ✍️ I write articles on [Substack](https://jeezy.substack.com)
 
-📫 You can contact me directly on [Twitter](https://twitter.com/LGUG2Z) or [Discord](https://discord.gg/mGkn66PHkx)
+📫 You can contact me directly on [Mastodon](https://hachyderm.io/@LGUG2Z) [Twitter](https://twitter.com/LGUG2Z) or [Discord](https://discord.gg/mGkn66PHkx)
 
 <!--
 **LGUG2Z/LGUG2Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

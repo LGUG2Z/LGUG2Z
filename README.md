@@ -4,6 +4,8 @@ I am the developer and maintainer of [`komorebi`](https://github.com/LGUG2Z/komo
 
 If `komorebi` is an integral part of your professional or personal workflow, please consider [sponsoring me](https://github.com/sponsors/LGUG2Z) - even if it's just $1/month.
 
+👩‍💻 I livestream development of `komorebi` on [YouTube](https://www.youtube.com/playlist?list=PLllZnrEJu89Cpu4tMO8LAg1m6gWYWLSGJ)
+
 🔭 I curate RSS feeds of high-quality commentary from across the internet on various topics that I'm interested in
 - [Software development](https://notado.app/feeds/jado/software-development) (What makes good and bad software development experiences)
 - [Social media](https://notado.app/feeds/jado/social-media) (The state of different social media services, user generated content and recommendation algorithms)
@@ -11,7 +13,7 @@ If `komorebi` is an integral part of your professional or personal workflow, ple
 - [Mental health](https://notado.app/feeds/jado/mental-health) (Factors impacting our mental health in the modern age)
 - [Capitalism](https://notado.app/feeds/jado/capitalism) (How capitalism intersects with work, art, technology, urban planning, life and love)
 
-✍️ I write articles on [Substack](https://jeezy.substack.com)
+✍️ I write regularly about language, identity, culture, literature, community and software on [Substack](https://jeezy.substack.com)
 
 📫 You can contact me directly on [Mastodon](https://hachyderm.io/@LGUG2Z), [Twitter](https://twitter.com/LGUG2Z) or [Discord](https://discord.gg/mGkn66PHkx)
 

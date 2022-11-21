@@ -6,7 +6,7 @@ If `komorebi` is an integral part of your professional or personal workflow, ple
 
 👩‍💻 I livestream development of `komorebi` on [YouTube](https://www.youtube.com/playlist?list=PLllZnrEJu89Cpu4tMO8LAg1m6gWYWLSGJ)
 
-🔭 I curate RSS feeds of high-quality commentary from across the internet on various topics that I'm interested in
+🔭 I curate RSS feeds of high-quality highlights and commentary from across the internet
 - [Software development](https://notado.app/feeds/jado/software-development) (What makes good and bad software development experiences)
 - [Social media](https://notado.app/feeds/jado/social-media) (The state of different social media services, user generated content and recommendation algorithms)
 - [Addiction](https://notado.app/feeds/jado/addiction) (Living with, overcoming and life after addiction)
@@ -15,7 +15,7 @@ If `komorebi` is an integral part of your professional or personal workflow, ple
 
 ✍️ I write regularly about language, identity, culture, literature, community and software on [Substack](https://jeezy.substack.com)
 
-📫 You can contact me directly on [Mastodon](https://hachyderm.io/@LGUG2Z), [Twitter](https://twitter.com/LGUG2Z) or [Discord](https://discord.gg/mGkn66PHkx)
+📫 You can contact me directly on Mastodon ([@LGUG2Z@hachyderm.io](https://hachyderm.io/@LGUG2Z)), Twitter ([@LGUG2Z](https://twitter.com/LGUG2Z)) or [Discord](https://discord.gg/mGkn66PHkx)
 
 <!--
 **LGUG2Z/LGUG2Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

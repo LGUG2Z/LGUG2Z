@@ -15,7 +15,7 @@ If `komorebi` is an integral part of your professional or personal workflow, ple
 
 ✍️ I write regularly about language, identity, culture, literature, community and software on [Substack](https://jeezy.substack.com)
 
-📫 You can contact me directly on Mastodon (<a href="https://hachyderm.io/@LGUG2Z" rel="me">@LGUG2Z@hachyderm.io</a>), Twitter ([@LGUG2Z](https://twitter.com/LGUG2Z)) or [Discord](https://discord.gg/mGkn66PHkx)
+📫 You can contact me directly on Mastodon ([@LGUG2Z@hachyderm.io](https://hachyderm.io/@LGUG2Z)), Twitter ([@LGUG2Z](https://twitter.com/LGUG2Z)) or [Discord](https://discord.gg/mGkn66PHkx)
 
 <!--
 **LGUG2Z/LGUG2Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

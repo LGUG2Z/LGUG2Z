@@ -1,3 +1,5 @@
+<div dir="rtl">﷽</div>
+
 ### Hi there 👋
 
 I am the developer and maintainer of [`komorebi`](https://github.com/LGUG2Z/komorebi), the most starred, actively developed tiling window manager for Windows on GitHub.

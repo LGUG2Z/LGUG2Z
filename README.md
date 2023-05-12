@@ -6,11 +6,11 @@ I am the developer and maintainer of [`komorebi`](https://github.com/LGUG2Z/komo
 
 If `komorebi` is an integral part of your professional or personal workflow, please consider [sponsoring me](https://github.com/sponsors/LGUG2Z) - even if it's just $1/month.
 
-🔧 I run [Notado](https://notado.app) and [Kullish](https://kulli.sh)
+🔧 I run [Notado](https://notado.app) and [Kullish](https://kulli.sh).
 
-👩‍💻 I livestream development of `komorebi` on [YouTube](https://www.youtube.com/channel/UCeai3-do-9O4MNy9_xjO6mg?sub_confirmation=1)
+👩‍💻 I livestream development of `komorebi` on [YouTube](https://www.youtube.com/channel/UCeai3-do-9O4MNy9_xjO6mg?sub_confirmation=1).
 
-🔭 I curate RSS feeds of high-quality highlights and commentary from across the internet
+🔭 I curate RSS feeds of high-quality highlights and commentary from across the internet:
 - [Software development](https://notado.app/feeds/jado/software-development) (What makes good and bad software development experiences)
 - [Social media](https://notado.app/feeds/jado/social-media) (The state of different social media services, user generated content and recommendation algorithms)
 - [Addiction](https://notado.app/feeds/jado/addiction) (Living with, overcoming and life after addiction)

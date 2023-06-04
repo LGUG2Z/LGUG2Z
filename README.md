@@ -4,7 +4,7 @@
 
 I am the developer and maintainer of [`komorebi`](https://github.com/LGUG2Z/komorebi), the most starred, actively developed tiling window manager for Windows on GitHub.
 
-If `komorebi` is an integral part of your professional or personal workflow, please consider [sponsoring me](https://github.com/sponsors/LGUG2Z) - even if it's just $1/month.
+If `komorebi` is an integral part of your professional or personal workflow, please consider [sponsoring me](https://github.com/sponsors/LGUG2Z) - even if it's just $1/month. If you're not in a position to sponsor, the next best thing you can do to support the project is [subscribe to my YouTube channel](https://www.youtube.com/channel/UCeai3-do-9O4MNy9_xjO6mg?sub_confirmation=1) to help me reach the 1000 subscribers required to be part of the YouTube Partner Program and start receiving ad revenue.
 
 🔧 I run [Notado](https://notado.app) and [Kullish](https://kulli.sh).
 

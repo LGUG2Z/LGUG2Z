@@ -6,7 +6,7 @@ I am the developer and maintainer of [`komorebi`](https://github.com/LGUG2Z/komo
 
 If `komorebi` is an integral part of your professional or personal workflow, please consider [sponsoring me](https://github.com/sponsors/LGUG2Z) - even if it's just $1/month.
 
-You can also make anonymous Lightning ([lgug2z@getalby.com](https://getalby.com/p/lgug2z)) and Bitcoin (bc1q68zxj9wc0gqx92lmhjjm3xrh7wqwk2rx8rcls3) donations.
+You can also make anonymous Lightning ([lgug2z@getalby.com](https://getalby.com/p/lgug2z)) and Bitcoin (`bc1q68zxj9wc0gqx92lmhjjm3xrh7wqwk2rx8rcls3`) donations.
 
 If you're not in a position to sponsor or donate, the next best thing you can do to support the project is [subscribe to my YouTube channel](https://www.youtube.com/channel/UCeai3-do-9O4MNy9_xjO6mg?sub_confirmation=1) to help me reach the 1000 subscribers required to be part of the YouTube Partner Program and start receiving ad revenue.
 

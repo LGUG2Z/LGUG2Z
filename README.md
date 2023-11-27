@@ -6,13 +6,13 @@ I am the developer and maintainer of [`komorebi`](https://github.com/LGUG2Z/komo
 
 If `komorebi` is an integral part of your professional or personal workflow, please consider [sponsoring me](https://github.com/sponsors/LGUG2Z) - even if it's just $1/month.
 
-You can also make anonymous Lightning ([lgug2z@getalby.com](https://getalby.com/p/lgug2z)) and Bitcoin (`bc1q68zxj9wc0gqx92lmhjjm3xrh7wqwk2rx8rcls3`) donations.
+You can also tip on [Ko-fi](https://ko-fi.com/lgug2z/), and make anonymous Lightning ([lgug2z@getalby.com](https://getalby.com/p/lgug2z)) and Bitcoin (`bc1q68zxj9wc0gqx92lmhjjm3xrh7wqwk2rx8rcls3`) donations.
 
 If you're not in a position to sponsor or donate, the next best thing you can do to support the project is [subscribe to my YouTube channel](https://www.youtube.com/channel/UCeai3-do-9O4MNy9_xjO6mg?sub_confirmation=1) to help me reach the 1000 subscribers required to be part of the YouTube Partner Program and start receiving ad revenue.
 
-🔧 I run [Notado](https://notado.app) and [Kullish](https://kulli.sh).
+🔧 I run [Notado](https://notado.app), [Kullish](https://kulli.sh) and [xeetshot](https://xeetshot.lgug2z.com).
 
-👩‍💻 I livestream development of `komorebi` on [YouTube](https://www.youtube.com/channel/UCeai3-do-9O4MNy9_xjO6mg?sub_confirmation=1).
+👩‍💻 I post live development videos and tutorials on [YouTube](https://www.youtube.com/channel/UCeai3-do-9O4MNy9_xjO6mg?sub_confirmation=1).
 
 🔭 I curate RSS feeds of high-quality highlights and commentary from across the internet:
 - [Software development](https://notado.app/feeds/jado/software-development) (What makes good and bad software development experiences)

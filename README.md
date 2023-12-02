@@ -14,7 +14,7 @@ If you're not in a position to sponsor or donate, the next best thing you can do
 
 👩‍💻 I post live development videos and tutorials on [YouTube](https://www.youtube.com/channel/UCeai3-do-9O4MNy9_xjO6mg?sub_confirmation=1).
 
-❄️ I maintain NixOS starter templates for [WSL](https://github.com/LGUG2Z/nixos-wsl-starter), [Cloud VMs](https://github.com/LGUG2Z/nixos-hetzner-cloud-starter) and [Bare Metal servers](https://github.com/LGUG2Z/nixos-hetzner-robot-starter)
+❄️ I maintain NixOS starter templates for [WSL](https://github.com/LGUG2Z/nixos-wsl-starter), [Cloud VMs](https://github.com/LGUG2Z/nixos-hetzner-cloud-starter) and [Bare Metal servers](https://github.com/LGUG2Z/nixos-hetzner-robot-starter).
 
 🔭 I curate RSS feeds of high-quality highlights and commentary from across the internet:
 - [Software development](https://notado.app/feeds/jado/software-development) (What makes good and bad software development experiences)

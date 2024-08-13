@@ -6,7 +6,7 @@
 
 I am the developer and maintainer of [`komorebi`](https://github.com/LGUG2Z/komorebi), the most starred, actively developed tiling window manager for Windows on GitHub.
 
-If `komorebi` is an integral part of your professional or personal workflow, please consider [sponsoring me](https://github.com/sponsors/LGUG2Z) - even if it's just $1/month.
+If `komorebi` is an integral part of your professional or personal workflow, please consider [sponsoring me](https://github.com/sponsors/LGUG2Z).
 
 You can also tip on [Ko-fi](https://ko-fi.com/lgug2z/), and make anonymous Lightning ([lgug2z@getalby.com](https://getalby.com/p/lgug2z)) and Bitcoin (`bc1q68zxj9wc0gqx92lmhjjm3xrh7wqwk2rx8rcls3`) donations.
 

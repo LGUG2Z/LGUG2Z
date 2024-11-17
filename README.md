@@ -28,7 +28,7 @@ If you're not in a position to sponsor or donate, the next best thing you can do
 
 ✍️ I write regularly about language, identity, culture, literature, community and software on [my website](https://LGUG2Z.com).
 
-📫 You can contact me directly on Mastodon ([@LGUG2Z@hachyderm.io](https://hachyderm.io/@LGUG2Z)), BlueSky ([@lgug2z.com](https://bsky.app/profile/lgug2z.com))Twitter ([@JeezyCodes](https://twitter.com/JeezyCodes)) or [Discord](https://discord.gg/mGkn66PHkx)
+📫 You can contact me directly on Mastodon ([@LGUG2Z@hachyderm.io](https://hachyderm.io/@LGUG2Z)), Bluesky ([@lgug2z.com](https://bsky.app/profile/lgug2z.com))Twitter ([@JeezyCodes](https://twitter.com/JeezyCodes)) or [Discord](https://discord.gg/mGkn66PHkx)
 
 <!--
 **LGUG2Z/LGUG2Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

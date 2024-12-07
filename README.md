@@ -12,7 +12,7 @@ You can also tip on [Ko-fi](https://ko-fi.com/lgug2z/), and make anonymous Light
 
 If you're not in a position to sponsor or donate, the next best thing you can do to support the project is [subscribe to my YouTube channel](https://www.youtube.com/channel/UCeai3-do-9O4MNy9_xjO6mg?sub_confirmation=1).
 
-🔧 I run [Notado](https://notado.app), [Kullish](https://kulli.sh) and [xeetshot](https://xeetshot.lgug2z.com).
+🔧 I run [Notado](https://notado.app), [Kullish](https://kulli.sh), [Blucerne](https://blucerne.app) and [xeetshot](https://xeetshot.lgug2z.com).
 
 👩‍💻 I post live development videos and tutorials on [YouTube](https://www.youtube.com/channel/UCeai3-do-9O4MNy9_xjO6mg?sub_confirmation=1).
 

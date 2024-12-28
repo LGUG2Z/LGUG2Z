@@ -8,7 +8,7 @@ I am the developer and maintainer of [`komorebi`](https://github.com/LGUG2Z/komo
 
 If `komorebi` is an integral part of your professional or personal workflow, please consider [sponsoring me](https://github.com/sponsors/LGUG2Z).
 
-You can also tip on [Ko-fi](https://ko-fi.com/lgug2z/), and make anonymous Lightning ([lgug2z@getalby.com](https://getalby.com/p/lgug2z)) and Bitcoin (`bc1q68zxj9wc0gqx92lmhjjm3xrh7wqwk2rx8rcls3`) donations.
+You can also tip on [Ko-fi](https://ko-fi.com/lgug2z/), and make anonymous Bitcoin (`bc1qv73wzspc77k46uty4vp85x8sdp24mphvm58f6q`) donations.
 
 If you're not in a position to sponsor or donate, the next best thing you can do to support the project is [subscribe to my YouTube channel](https://www.youtube.com/channel/UCeai3-do-9O4MNy9_xjO6mg?sub_confirmation=1).
 

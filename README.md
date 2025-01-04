@@ -2,15 +2,27 @@
 
 [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 
-### Hi there 👋
+## Hi there 👋
+
+### komorebi
 
 I am the developer and maintainer of [`komorebi`](https://github.com/LGUG2Z/komorebi), the most starred, actively developed tiling window manager for Windows on GitHub.
 
-If `komorebi` is an integral part of your professional or personal workflow, please consider [sponsoring me](https://github.com/sponsors/LGUG2Z).
+If you want to use `komorebi` at work, you are required to purchase an [individual commercial use license](https://lgug2z.com/software/komorebi).
+
+Otherwise, if `komorebi` is an integral part of your personal workflow, please consider [sponsoring me](https://github.com/sponsors/LGUG2Z).
 
 You can also tip on [Ko-fi](https://ko-fi.com/lgug2z/), and make anonymous Bitcoin (`bc1qv73wzspc77k46uty4vp85x8sdp24mphvm58f6q`) donations.
 
-If you're not in a position to sponsor or donate, the next best thing you can do to support the project is [subscribe to my YouTube channel](https://www.youtube.com/channel/UCeai3-do-9O4MNy9_xjO6mg?sub_confirmation=1).
+If you are not in a position to sponsor or donate, the next best thing you can do to support the project is [subscribe to my YouTube channel](https://www.youtube.com/channel/UCeai3-do-9O4MNy9_xjO6mg?sub_confirmation=1).
+
+### Licensing
+
+My software is typically released under the [Komorebi License](https://github.com/LGUG2Z/komorebi-license), an educational source license for people who reject [genocide-friendly software licensing](https://opensource.org/faq#evil).
+
+I also make dedicated individual commercial use licenses available for [some of my software](https://lgug2z.com/software).
+
+### About me
 
 🔧 I run [Notado](https://notado.app), [Kullish](https://kulli.sh), [Blucerne](https://blucerne.app) and [xeetshot](https://xeetshot.lgug2z.com).
 
@@ -26,7 +38,7 @@ If you're not in a position to sponsor or donate, the next best thing you can do
 - [Capitalism](https://notado.app/feeds/jado/capitalism) (How capitalism intersects with work, art, technology, urban planning, life and love)
 - [Education](https://notado.app/feeds/jado/education) (What makes for good and bad education experiences at different stages of life)
 
-✍️ I write regularly about language, identity, culture, literature, community and software on [my website](https://LGUG2Z.com).
+✍️ I write about language, identity, culture, literature, community and software on [my website](https://LGUG2Z.com).
 
 📫 You can contact me directly on Mastodon ([@LGUG2Z@hachyderm.io](https://hachyderm.io/@LGUG2Z)), Bluesky ([@lgug2z.com](https://bsky.app/profile/lgug2z.com))Twitter ([@JeezyCodes](https://twitter.com/JeezyCodes)) or [Discord](https://discord.gg/mGkn66PHkx)
 

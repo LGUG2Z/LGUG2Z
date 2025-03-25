@@ -14,13 +14,19 @@ Otherwise, if `komorebi` is an integral part of your personal workflow, please c
 
 You can also tip on [Ko-fi](https://ko-fi.com/lgug2z/), and make anonymous Bitcoin (`bc1qv73wzspc77k46uty4vp85x8sdp24mphvm58f6q`) donations.
 
-If you are not in a position to sponsor or donate, the next best thing you can do to support the project is [subscribe to my YouTube channel](https://www.youtube.com/channel/UCeai3-do-9O4MNy9_xjO6mg?sub_confirmation=1).
+If you are not in a position to sponsor or donate, the next best thing you can do to support the project is [subscribe to my YouTube channel](https://www.youtube.com/channel/UCeai3-do-9O4MNy9_xjO6mg?sub_confirmation=1), where I post development and release overview videos.
 
 ### Licensing
 
-My software is typically released under the [Komorebi License](https://github.com/LGUG2Z/komorebi-license), an educational source license for people who reject [genocide-friendly software licensing](https://opensource.org/faq#evil).
+My software is typically released under the [Komorebi License](https://github.com/LGUG2Z/komorebi-license), an [educational source](https://lgug2z.com/articles/educational-source-software/) and firewall license for people who reject [genocide-friendly software licensing](https://opensource.org/faq#evil).
+
+I write about post-open source software licensing philosophies [through a Marxist-Leninist lens](https://lgug2z.com/articles/on-open-source-mythology/), and encourage new generations of developers to critically interrogate the open source dogmatism which multi-million, billion and trillion dollar corporations target them with in both direct and indirect ways.
 
 I also make dedicated individual commercial use licenses available for [some of my software](https://lgug2z.com/software).
+
+Many employers reimburse software licensing costs, so don’t forget to submit a reimbursement request to your employer with your receipt(s).
+
+When costs are reimbursed, the individual commercial license functions as a mechanism for ensuring corporations contribute to the financial sustainability of independent software, mediated by the actions of you, the end user (because we all know that corporations will never make direct financial contributions to independent software projects otherwise).
 
 ### About me
 

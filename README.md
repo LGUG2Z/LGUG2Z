@@ -20,7 +20,7 @@ If you are not in a position to sponsor or donate, the next best thing you can d
 
 My software is typically released under the [Komorebi License](https://github.com/LGUG2Z/komorebi-license), an [educational source](https://lgug2z.com/articles/educational-source-software/) and firewall license for people who reject [genocide-friendly software licensing](https://opensource.org/faq#evil).
 
-I write about post-open source software licensing philosophies [through a certain lens](https://lgug2z.com/articles/on-open-source-mythology/), and encourage new generations of developers to critically interrogate the open source dogmatism which multi-million, billion and trillion dollar corporations target them with in both direct and indirect ways.
+I write about post-open source software licensing philosophies [through a certain lens](https://lgug2z.com/articles/on-open-source-mythology/), and encourage new generations of developers to [critically interrogate the open source dogmatism](https://lgug2z.com/articles/on-evils-in-software-licensing/) which multi-million, billion and trillion dollar corporations target them with in both direct and indirect ways.
 
 I also make dedicated individual commercial use licenses available for [some of my software](https://lgug2z.com/software).
 

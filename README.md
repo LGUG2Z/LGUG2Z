@@ -26,7 +26,7 @@ I also make dedicated individual commercial use licenses available for [some of 
 
 Many employers reimburse software licensing costs, so don’t forget to submit a reimbursement request to your employer with your receipt(s).
 
-With mainstream corporate software reimbursement policies, the individual commercial license functions as a mechanism to empower end users to mediate corporate contributions to the financial sustainability of independent software - united we bargain, divded we beg.
+With mainstream corporate software reimbursement policies, the individual commercial use license functions as a mechanism to empower end users to mediate corporate contributions to the financial sustainability of independent software - united we bargain, divded we beg.
 
 ### About me
 
